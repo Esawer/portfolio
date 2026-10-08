@@ -11,7 +11,7 @@
 
 WtymRazem is a foundation focused on mental health and well-being.
 
-A long time ago, during a hosting migration, the foundation lost its old website - only screenshots of it survived.
+A long time ago, during a hosting migration, the foundation lost its old website - only screenshots of it survived...
 
 Those screenshots were a starting point rather than a template: I drew on them while building a new project, and the result is a different and much better website - one that explains the foundation's mission clearly, lets people book a consultation or apply for a role, and stays easy for a non-technical team to update.
 
@@ -72,4 +72,4 @@ Live at [wtymrazem.pl](https://wtymrazem.pl), with the team able to manage and e
 
 ## How it was built
 
-Built by directing AI agents - prompt, review, test, ship.
+Built by directing AI agents - prompt, review, ship.

@@ -9,8 +9,4 @@ Selected projects I have designed, built and shipped. Each folder contains a sho
 
 ---
 
-**How I work:** I turn ideas into working solutions end-to-end - by prompting AI agents, then verifying and shipping.
-
----
-
-*Screenshots are shown to demonstrate the work. Source code for client and foundation projects is not included.*
+*Screenshots are shown to demonstrate the work. Source code is not included.*
